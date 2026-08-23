@@ -1,0 +1,9 @@
+ProductID,Product,Product Category,Unit Price,Supplier,Warehouse Location,Lead Time Days
+P101,Laptop,Electronics,50000,Dell,Mumbai,5
+P102,Mobile,Electronics,30000,Samsung,Pune,3
+P103,TV,Electronics,45000,LG,Delhi,6
+P104,Chair,Furniture,7000,IKEA,Bangalore,7
+P105,Table,Furniture,12000,HomeCenter,Chennai,8
+P106,Sofa,Furniture,35000,Pepperfry,Hyderabad,10
+P107,Printer,Office Supplies,15000,HP,Mumbai,4
+P108,Stationery,Office Supplies,500,Classmate,Pune,2

@@ -119,7 +119,7 @@ USE SC;
 supply_chain
 dim_material
 ```
-6. Open the `https://github.com/akshata211999-cell/Supply_chain_MYSQL/blob/main/Supply%20Chain.sql` file.
+6. Open the "Supply Chain.sql" file.
 7. Run the SQL queries to perform the analysis.
 ---
 ## 📊 Example Business Insight
